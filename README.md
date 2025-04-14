@@ -43,7 +43,7 @@ To analyze the Titanic passenger data using visual and statistical methods to un
 - Missing data visualization
 
 ### 📌 Observations
-A summary of all key insights is saved in `titanic_analysis_observations.txt`.
+A summary of all key insights is saved in `EDA TASK -5 REPORT BY KUWAR ABHINAV AMAN.pdf'.
 
 Author: Kuwar Abhinav Aman
 Role: Data Analyst Intern
